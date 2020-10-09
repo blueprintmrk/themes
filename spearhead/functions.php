@@ -169,8 +169,3 @@ function seedlet_entry_meta_header() : void {
 	}
 }
 // require get_stylesheet_directory() . '/inc/custom-header.php';
-
-/**
- * Block Patterns.
- */
-require get_stylesheet_directory() . '/inc/block-patterns.php';
